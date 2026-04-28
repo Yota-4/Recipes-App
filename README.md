@@ -1,4 +1,4 @@
-# Cooking Recipes App 
+# Recipes for You App 
 
 A clean, responsive Android application built with Java and XML. This project demonstrates core Android development concepts, including UI navigation, a mock user authentication flow, and robust state management during screen orientation changes.
 
